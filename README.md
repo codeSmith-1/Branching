@@ -12,4 +12,10 @@ List of commands and practice with branching
 ### Information Commands
 * 'git status' - show current status of local repo/working directory
 * 'git log' - show commit history
-* 'git log --online' - show commit history (compact format)
+* 'git log --oneline' - show commit history (compact format)
+* 'git config -l' - list configuration for local repo
+
+## Branch Commands
+* 'git Branch' - list local branches
+* 'git branch branchName' - create local branch 'branchName'
+* 'git checkout branchName' - switch to branch 'branchName'
