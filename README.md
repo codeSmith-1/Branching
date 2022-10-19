@@ -1,6 +1,8 @@
 ## Git Cheat Sheet
 
 List of commands and practice with branching
+
+Stuff Added in newBranch
 STUFF ADDED HERE IN MAIN branch
 MORE MAIN STUFF
 ### Basic Commands
