@@ -1,7 +1,10 @@
 ## Git Cheat Sheet
 
 List of commands and practice with branching
-Stuff Added in newBranch_
+
+Stuff Added in newBranch
+STUFF ADDED HERE IN MAIN branch
+MORE MAIN STUFF
 ### Basic Commands
 * 'git init' - initialize local repo in working directory
 * 'git add .' - stage changed files in current directory for commit
